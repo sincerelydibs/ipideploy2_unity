@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<MotionTransferProfile version="2">
+  <RootRotation>
+    <Rotation axis="1.000000 0.000000 0.000000" angle="0.000000" />
+    <Rotation axis="0.000000 1.000000 0.000000" angle="0.000000" />
+    <Rotation axis="0.000000 0.000000 1.000000" angle="0.000000" />
+  </RootRotation>
+  <TPoseAdjustment Legs="1.000000" Arms="1.000000" />
+  <BoneMapping SourceBone="Hip" TargetBone="Hips" />
+  <BoneMapping SourceBone="LowerSpine" TargetBone="Spine" />
+  <BoneMapping SourceBone="MiddleSpine" TargetBone="Spine1" />
+  <BoneMapping SourceBone="Chest" TargetBone="Spine2" />
+  <BoneMapping SourceBone="Neck" TargetBone="Neck" />
+  <BoneMapping SourceBone="Head" TargetBone="Head" />
+  <BoneMapping SourceBone="RClavicle" TargetBone="RightShoulder" />
+  <BoneMapping SourceBone="RShoulder" TargetBone="RightArm" />
+  <BoneMapping SourceBone="RForearm" TargetBone="RightForeArm" />
+  <BoneMapping SourceBone="RHand" TargetBone="RightHand" />
+  <BoneMapping SourceBone="RFinger1" TargetBone="RightHandIndex1" />
+  <BoneMapping SourceBone="RFinger11" TargetBone="RightHandIndex2" />
+  <BoneMapping SourceBone="RFinger12" TargetBone="RightHandIndex3" />
+  <BoneMapping SourceBone="RFinger2" TargetBone="RightHandMiddle1" />
+  <BoneMapping SourceBone="RFinger21" TargetBone="RightHandMiddle2" />
+  <BoneMapping SourceBone="RFinger22" TargetBone="RightHandMiddle3" />
+  <BoneMapping SourceBone="RFinger3" TargetBone="RightHandRing1" />
+  <BoneMapping SourceBone="RFinger31" TargetBone="RightHandRing2" />
+  <BoneMapping SourceBone="RFinger32" TargetBone="RightHandRing3" />
+  <BoneMapping SourceBone="RFinger4" TargetBone="RightHandPinky1" />
+  <BoneMapping SourceBone="RFinger41" TargetBone="RightHandPinky2" />
+  <BoneMapping SourceBone="RFinger42" TargetBone="RightHandPinky3" />
+  <BoneMapping SourceBone="RFinger0" TargetBone="RightHandThumb1" />
+  <BoneMapping SourceBone="RFinger01" TargetBone="RightHandThumb2" />
+  <BoneMapping SourceBone="RFinger02" TargetBone="RightHandThumb3" />
+  <BoneMapping SourceBone="LClavicle" TargetBone="LeftShoulder" />
+  <BoneMapping SourceBone="LShoulder" TargetBone="LeftArm" />
+  <BoneMapping SourceBone="LForearm" TargetBone="LeftForeArm" />
+  <BoneMapping SourceBone="LHand" TargetBone="LeftHand" />
+  <BoneMapping SourceBone="LFinger1" TargetBone="LeftHandIndex1" />
+  <BoneMapping SourceBone="LFinger11" TargetBone="LeftHandIndex2" />
+  <BoneMapping SourceBone="LFinger12" TargetBone="LeftHandIndex3" />
+  <BoneMapping SourceBone="LFinger2" TargetBone="LeftHandMiddle1" />
+  <BoneMapping SourceBone="LFinger21" TargetBone="LeftHandMiddle2" />
+  <BoneMapping SourceBone="LFinger22" TargetBone="LeftHandMiddle3" />
+  <BoneMapping SourceBone="LFinger3" TargetBone="LeftHandRing1" />
+  <BoneMapping SourceBone="LFinger31" TargetBone="LeftHandRing2" />
+  <BoneMapping SourceBone="LFinger32" TargetBone="LeftHandRing3" />
+  <BoneMapping SourceBone="LFinger4" TargetBone="LeftHandPinky1" />
+  <BoneMapping SourceBone="LFinger41" TargetBone="LeftHandPinky2" />
+  <BoneMapping SourceBone="LFinger42" TargetBone="LeftHandPinky3" />
+  <BoneMapping SourceBone="LFinger0" TargetBone="LeftHandThumb1" />
+  <BoneMapping SourceBone="LFinger01" TargetBone="LeftHandThumb2" />
+  <BoneMapping SourceBone="LFinger02" TargetBone="LeftHandThumb3" />
+  <BoneMapping SourceBone="RThigh" TargetBone="RightUpLeg" />
+  <BoneMapping SourceBone="RShin" TargetBone="RightLeg" />
+  <BoneMapping SourceBone="RFoot" TargetBone="RightFoot" />
+  <BoneMapping SourceBone="RToe" TargetBone="RightToeBase" />
+  <BoneMapping SourceBone="LThigh" TargetBone="LeftUpLeg" />
+  <BoneMapping SourceBone="LShin" TargetBone="LeftLeg" />
+  <BoneMapping SourceBone="LFoot" TargetBone="LeftFoot" />
+  <BoneMapping SourceBone="LToe" TargetBone="LeftToeBase" />
+</MotionTransferProfile>

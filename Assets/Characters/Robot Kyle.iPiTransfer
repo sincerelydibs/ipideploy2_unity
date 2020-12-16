@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<MotionTransferProfile version="2">
+  <RootRotation>
+    <Rotation axis="1.000000 0.000000 0.000000" angle="0.000000" />
+    <Rotation axis="0.000000 1.000000 0.000000" angle="0.000000" />
+    <Rotation axis="0.000000 0.000000 1.000000" angle="0.000000" />
+  </RootRotation>
+  <TPoseAdjustment Legs="1.000000" Arms="1.000000" />
+  <BoneMapping SourceBone="Hip" TargetBone="Root" />
+  <BoneMapping SourceBone="Chest" TargetBone="Ribs" />
+  <BoneMapping SourceBone="Neck" TargetBone="Neck" />
+  <BoneMapping SourceBone="Head" TargetBone="Head" />
+  <BoneMapping SourceBone="RClavicle" TargetBone="Right_Shoulder_Joint_01" />
+  <BoneMapping SourceBone="RShoulder" TargetBone="Right_Upper_Arm_Joint_01" />
+  <BoneMapping SourceBone="RForearm" TargetBone="Right_Forearm_Joint_01" />
+  <BoneMapping SourceBone="RHand" TargetBone="Right_Wrist_Joint_01" />
+  <BoneMapping SourceBone="LClavicle" TargetBone="Left_Shoulder_Joint_01" />
+  <BoneMapping SourceBone="LShoulder" TargetBone="Left_Upper_Arm_Joint_01" />
+  <BoneMapping SourceBone="LForearm" TargetBone="Left_Forearm_Joint_01" />
+  <BoneMapping SourceBone="LHand" TargetBone="Left_Wrist_Joint_01" />
+  <BoneMapping SourceBone="RThigh" TargetBone="Right_Thigh_Joint_01" />
+  <BoneMapping SourceBone="RShin" TargetBone="Right_Knee_Joint_01" />
+  <BoneMapping SourceBone="RFoot" TargetBone="Right_Ankle_Joint_01" />
+  <BoneMapping SourceBone="RToe" TargetBone="Right_Toe_Joint_01" />
+  <BoneMapping SourceBone="LThigh" TargetBone="Left_Thigh_Joint_01" />
+  <BoneMapping SourceBone="LShin" TargetBone="Left_Knee_Joint_01" />
+  <BoneMapping SourceBone="LFoot" TargetBone="Left_Ankle_Joint_01" />
+  <BoneMapping SourceBone="LToe" TargetBone="Left_Toe_Joint_01" />
+</MotionTransferProfile>
